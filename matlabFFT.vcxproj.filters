@@ -18,5 +18,32 @@
     <ClCompile Include="matlabFFT.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="mat\fft1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="mat\rt_nonfinite.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="mat\rtGetInf.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="mat\rtGetNaN.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="mat\test.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="mat\test_emxAPI.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="mat\test_emxutil.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="mat\test_initialize.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="mat\test_terminate.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
